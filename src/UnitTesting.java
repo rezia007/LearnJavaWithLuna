@@ -1,5 +1,5 @@
-import org.testng.Assert;
-import org.testng.annotations.Test;
+import junit.framework.Assert;
+import org.junit.Test;
 
 public class UnitTesting {
     @Test
